@@ -1,13 +1,12 @@
-<h3 align="center" color="blue">A passionate Junior Front-End Developer</h3>
+<h2 align="left" color="blue">Junior Front-End Developer</h2>
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/ahmet-salih-karag%C3%B6z-5055931b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmet-salih-karag%C3%B6z-5055931b6" height="30" width="40" /></a>
   <a href="https://www.instagram.com/krgzsalih/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krgzsalih" height="30" width="40" /></a>
 </p>
 
-<br></br>
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
@@ -28,13 +27,16 @@
     <a href="https://tr.reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a>
-    </a>
+  </a>
     <a href="  https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
   </a>
+  </a>
+    <a href="https://www.w3schools.com/nodejs/nodejs_npm.asp" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> 
+  </a>
  </p>
  
- <br></br>
- 
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krgzsalih&show_icons=true&locale=en&layout=compact" alt="krgzsalih" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krgzsalih&theme=tokyonight)
 
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=krgzsalih&show_icons=true&theme=tokyonight)
