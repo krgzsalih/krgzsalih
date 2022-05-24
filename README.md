@@ -1,6 +1,6 @@
 <h2 align="left" color="blue">Junior Front-End Developer</h2>
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">Contact with me:</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/ahmet-salih-karag%C3%B6z-5055931b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmet-salih-karag%C3%B6z-5055931b6" height="30" width="40" /></a>
   <a href="https://www.instagram.com/krgzsalih/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krgzsalih" height="30" width="40" /></a>
