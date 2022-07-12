@@ -5,6 +5,12 @@
 [<img src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40">](https://www.linkedin.com/in/ahmetsalihkaragoz/)
 [<img src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40">](https://www.instagram.com/krgzsalih/)
 
+<!-- <h2 align="left">Contact with me:</h2>
+<p align="left">
+  <a href="https://www.linkedin.com/in/ahmetsalihkaragoz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmet-salih-karag%C3%B6z-5055931b6" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/krgzsalih/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krgzsalih" height="30" width="40" /></a>
+</p> -->
+
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
   
