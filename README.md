@@ -4,6 +4,8 @@
 
 [<img src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40">](https://www.linkedin.com/in/ahmetsalihkaragoz/)
 [<img src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40">](https://www.instagram.com/krgzsalih/)
+[<img src = "https://global-uploads.webflow.com/6097e0eca1e87557da031fef/609859a191abe5d64b17fed3_Patika%20logo.png" width="50" height="50">](https://app.patika.dev/krgzsalih/)
+
 
 <!-- <h2 align="left">Contact with me:</h2>
 <p align="left">
