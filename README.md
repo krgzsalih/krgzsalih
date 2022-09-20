@@ -1,4 +1,4 @@
-# Junior Front-End Developer
+# Front-End Developer
 
 ## Contact with me:
 
