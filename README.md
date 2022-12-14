@@ -9,6 +9,8 @@
 <!-- <img src="https://c.tenor.com/GKlLEY5omHwAAAAC/bored-anime.gif"> -->
 <hr>
 
+# Front-End Developer
+
 ## ⬇️ Contact me via these platforms!
 
 <a href="https://www.twitter.com/krgzsalih_dev" target="_blank"><img src="https://user-images.githubusercontent.com/61664693/116171179-f237f180-a710-11eb-9ff4-3b3935c74d44.png" width="55px"></img></a>
